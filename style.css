@@ -1,0 +1,18 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.tableHeight {
+  max-height: 400px;
+  overflow-y: scroll;
+}
+
+button {
+  display: block;
+}
+
+
+.inputCSS {
+  width: 100%;
+}
